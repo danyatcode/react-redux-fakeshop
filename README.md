@@ -1,6 +1,6 @@
 ## React App with Redux and Semantic UI
 ### Description
-This project is a React web application that utilizes the Redux library for state management and Semantic UI for styling. The app makes API requests using the Axios library and uses React Router DOM for client-side routing. The project is built using Create React App and includes Web Vitals for monitoring performance metrics.
+Website created as e-commercial website, design was created with Semantic CSS Library only. This project is a React web application that utilizes the Redux library for state management and Semantic UI for styling. The app makes API requests using the Axios library and uses React Router DOM for client-side routing.
 
 ### Tools & Technologies
 * React, React DOM
