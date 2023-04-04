@@ -9,8 +9,8 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/" exact element={<ListProduct/>}/>
-          <Route path="/product/:productId" exact element={<ItemDetails/>}/>
+          <Route path="react-redux-fakeshop/" exact element={<ListProduct/>}/>
+          <Route path="react-redux-fakeshop/product/:productId" exact element={<ItemDetails/>}/>
           <Route>404 Not Found</Route>
         </Routes>   
       </BrowserRouter>

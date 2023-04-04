@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className='ui menu'>
       <div className='ui container center'>
-        <Link to="/"><h2>Fake Shop</h2></Link> 
+        <Link to="react-redux-fakeshop/"><h2>Fake Shop</h2></Link> 
       </div>
     </div>
   )

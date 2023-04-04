@@ -9,7 +9,7 @@ const ProductItem = () => {
         const { id, title, image, price, category } = product;
         return (
           <div className="five wide column" style={{margin: "15px 0px"}} key={id}>
-            <Link to={`/product/${id}`}>
+            <Link to={`/react-redux-fakeshop/product/${id}`}>
               <div className="ui link cards" style={{height : "500px"}}>
                 <div className="ui card eq-card" style={{height: "100%"}}>
                   <div className="image" style={{height: "70%", display: "flex", alignItems: "center"}}>
@@ -17,7 +17,7 @@ const ProductItem = () => {
                   </div>
                   <div className="content" style={{display: "flex",flexDirection: "column", justifyContent: "center"}}>
                     <div className="header">{title}</div>
-                    <div className="meta" >${price}</div>
+                    <div className="ui teal label tag" >${price}</div>
                     <div className="meta">{category}</div>
                   </div>
                 </div>
