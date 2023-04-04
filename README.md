@@ -8,4 +8,4 @@ Website created as e-commercial website, design was created with Semantic CSS Li
 * React Router, React Router DOM
 * Axios
 * Semantic UI CSS, Semantic UI React
-### Link: [Website](https://danyatcode.github.io/react-redux-fakeshop/)
+### Link: [Website](https://danyatcode.github.io/react-redux-fakeshop/)=
